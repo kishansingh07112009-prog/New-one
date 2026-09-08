@@ -1,0 +1,34 @@
+/* universal Selrctor */
+*{
+    background-color: lightblue;
+}
+
+
+/* Element Selector */
+h1{
+   color: brown;
+
+}
+
+ /* Class Selector */
+ .about-para{
+     font-size: 50px;
+    color: red;
+    }
+
+    /* Id delector */
+    #heading[
+        color: blueviolet 
+    ]
+    /ID is unique and class can be more./
+    /Priority of Id id more than class./
+
+    /* Group Selector */
+    h1, h2, p{
+        font-size: 30px;
+    }
+
+    /*descemdant Selector */
+    footer p{
+        color: blue;
+    }

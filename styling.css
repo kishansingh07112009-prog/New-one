@@ -1,0 +1,29 @@
+*
+    background-color: peachpuff;
+    text-align: center;
+
+
+h1{
+    color: blue;
+    background-color: lightpink;
+}
+h2{
+    color: skyblue;
+}
+p{...
+}
+.contact{
+    color: skyblue;
+}
+.para1{
+    color: red;
+}
+.para2{
+    color: lightslategray;
+}
+.para3{
+    color: magenta;
+}
+footer{
+    color: greenyellow
+}
